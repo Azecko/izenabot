@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const PREFIX = "/iz";
+const PREFIX = "==";
 const YTDL = require("ytdl-core");
 const antispam = require("discord-anti-spam");
 const db = require("quick.db")
